@@ -1,0 +1,3 @@
+This is a template to generate both base and event pixel for TikTok on GTM. In order to get the event part working, we have to "install" first the base pixel.
+
+When this is done, we can create our pixel events. TikTok only allows (at the moment I write this) to insert the standard events that they've created. Besides that, custom parameters can be added, but you have to follow the guidelines marked on [this documentation](https://ads.tiktok.com/help/article?aid=10028). Keep in mind that you will only be able to send parameters on the events that are marked there (AddPaymentInfo, CompletePayment, PlaceAnOrder, Search and ViewContent).
