@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://visiondefunnel.com"
-documentation: ""
+documentation: "https://github.com/74minutos/tiktok_pixel"
 versions:
-  - sha: d3302d3f98185a92ec2a5ac54c3893a614143728
-    changeNotes: Initial Version
+  - sha: 59bc638d3c2e2458351a7b2457b65cd5cf604199
+    changeNotes: 'initial release'
