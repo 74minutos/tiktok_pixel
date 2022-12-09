@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -40,13 +40,6 @@ ___TEMPLATE_PARAMETERS___
       {
         "errorMessage": "You must provide a Pixel ID",
         "type": "NON_EMPTY"
-      },
-      {
-        "args": [
-          "^[0-9,]+$"
-        ],
-        "errorMessage": "Invalid Pixel ID format",
-        "type": "REGEX"
       }
     ],
     "displayName": "Tiktok Pixel ID",
@@ -342,8 +335,9 @@ ___WEB_PERMISSIONS___
 ___TESTS___
 
 scenarios: []
+setup: ''
 
 
 ___NOTES___
 
-Created on 27/7/2022, 16:27:35
+Created on 9/12/2022, 14:31:23
